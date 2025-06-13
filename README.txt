@@ -17,6 +17,7 @@ Contents
 - NPC's can be duelled for gold and bounty.
 - Gold system.
 - Bounty system.
+- Overworld map
 - Inventory for treasures of the sea.
 - Enemy ships spawn after searching enough islands.
 - Dark water areas that house monsters randomly spawn.
@@ -27,6 +28,6 @@ Controls
 ###
 [W][A][S][D]: Movement.
 [F]: Interact.
-[TAB]: Open menu (inventory, bounty, quests).
+[TAB]: Open menu (bounty, inventory, map, quests).
 [C]: Fire cannonball.
 [ENTER]: Confirm options.
